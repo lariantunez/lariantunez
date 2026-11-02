@@ -32,8 +32,9 @@ negócio são as mesmas, e cada uma tem um estudo de caso e uma demonstração q
 
 ### Ferramentas
 
-**Desenvolvimento assistido por IA (Claude Code)** · JavaScript · Node.js · Express · MongoDB Atlas ·
-Modelagem de dados (modelo estrela) · ETL · Google Apps Script · WhatsApp Cloud API · Docker · Koyeb · GitHub Pages
+**Desenvolvimento assistido por IA (Claude Code)** · JavaScript · Node.js · Express · Python · MongoDB Atlas ·
+Modelagem de dados (modelo estrela) · ETL · Google Apps Script · Google Sheets · Excel e VBA · WhatsApp Cloud API ·
+Docker · Koyeb · GitHub Pages
 
 ### 👉 [Ver todos os projetos com demonstração ao vivo](https://lariantunez.github.io/Vitrine-de-projetos/)
 
