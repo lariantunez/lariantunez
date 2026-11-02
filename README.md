@@ -1,6 +1,6 @@
 # Olá, eu sou a Larissa 👋
 
-**Desenvolvimento full stack com foco em dados** · Analista de Dados & Automação na Kert · Taboão da Serra, SP
+**Desenvolvimento full stack com foco em dados** · Analista de Dados na Kert · Taboão da Serra, SP
 
 Transformo problemas do negócio em sistemas completos. Mapeio as fontes (ERP, BI, planilhas), desenho o modelo
 de dados, construo o backend, o banco na nuvem e o painel, e valido cada número contra o dado oficial antes de
@@ -47,7 +47,7 @@ Gosto de trocar ideias sobre dados, automação e desenvolvimento.
 
 ### Hi, I'm Larissa 👋
 
-**Full stack development with a data focus** · Data & Automation Analyst at Kert · São Paulo, Brazil
+**Full stack development with a data focus** · Data Analyst at Kert · São Paulo, Brazil
 
 I turn business problems into complete systems. I map the sources (ERP, BI, spreadsheets), design the data model,
 build the backend, the cloud database and the dashboard, and validate every number against the official source
