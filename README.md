@@ -20,7 +20,6 @@ negócio que começo cada projeto.
 | Projeto | O que resolve | Stack |
 |---|---|---|
 | [Diagnóstico Comercial](https://github.com/lariantunez/Diagnostico-Comercial) | 12 extrações de ERP e BI viraram um painel 24/7, com modelo estrela, pipeline de 11 etapas e validação contra o faturamento oficial em 37 meses | Node.js · MongoDB Atlas · JS + SVG · Koyeb |
-| [Painel Financeiro](https://github.com/lariantunez/Painel-Financeiro) | Projeto pessoal em evolução contínua: importa extratos (CSV/OFX), aprende a classificar gastos e alimenta o Google Sheets | JavaScript · Google Apps Script |
 | [Bot RH Meta](https://github.com/lariantunez/Bot-RH-Meta-Painel) | Dúvidas de ponto, folha e benefícios resolvidas no WhatsApp, com fila para atendimento humano num painel web | Node.js · WhatsApp Cloud API · MongoDB |
 | [Painel de Contratação](https://github.com/lariantunez/painel-de-contratacao) | Funil de 8 etapas com semáforo de prazo, indicadores com a conta à vista e ranking por gestor | JavaScript |
 | [Painel Atlas](https://github.com/lariantunez/painel-sellout-de-para) | Painel novo entregue em 2 dias, reaproveitando a arquitetura de outro projeto, com de-para de GTIN | Express · MongoDB · Docker |
@@ -66,7 +65,6 @@ question.
 **Featured projects**
 
 - **[Sales Diagnostics](https://github.com/lariantunez/Diagnostico-Comercial):** 12 ERP and BI extracts became a 24/7 dashboard, with a star schema, an 11-step pipeline and validation against official revenue across 37 months
-- **[Personal Finance Dashboard](https://github.com/lariantunez/Painel-Financeiro):** a continuously evolving personal project that imports bank statements (CSV/OFX), learns how to categorize expenses and feeds Google Sheets
 - **[HR WhatsApp Bot](https://github.com/lariantunez/Bot-RH-Meta-Painel):** time-tracking, payroll and benefits questions answered on WhatsApp, with a human support queue in a web panel
 - **[Hiring Dashboard](https://github.com/lariantunez/painel-de-contratacao):** an 8-stage hiring funnel with deadline alerts, transparent KPIs and a ranking by manager
 - **[Atlas Dashboard](https://github.com/lariantunez/painel-sellout-de-para):** a new dashboard delivered in 2 days by reusing another project's architecture, with GTIN product mapping
